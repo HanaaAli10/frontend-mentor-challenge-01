@@ -89,8 +89,5 @@ body{
         background-color: var(--span-color);
         color: var(--Dark-Grey);
 }
-h1{
-    color: papayawhip;
-}
 .attribution { font-size: 11px; text-align: center; margin: 1.6rem; color: var(--White); }
 .attribution a { color: var(--span-color);}
