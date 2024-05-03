@@ -15,10 +15,11 @@
 body{
     font-family: sans-serif;
     letter-spacing: 0.4px;
+    background-color: var(--Off-Black);
 }
 .content{
-    background-color: var(--Off-Black);
-    height: 120vh;
+    
+    height: 100vh;
 }
 .container{
     padding-left: 10px;
@@ -58,12 +59,11 @@ body{
 
 .qualifier .name{
     color:var(--White);
-    font-size: 28px;
     margin-bottom: 10px;
 }
 .qualifier .address{
     color: var(--span-color);
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .qualifier p{
     color: var(--White);
@@ -92,3 +92,5 @@ body{
 h1{
     color: papayawhip;
 }
+.attribution { font-size: 11px; text-align: center; margin: 1.6rem; color: var(--White); }
+.attribution a { color: var(--span-color);}
